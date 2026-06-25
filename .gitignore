@@ -2,3 +2,4 @@
 *.Rproj
 .git
 R/
+data-raw/
