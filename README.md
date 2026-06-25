@@ -1,6 +1,6 @@
 # SMit Overlap
 
-[![gitleaks](https://github.com/jmhatch-NOAA/PEMAD-MDEB-SMit_Aquaculture/actions/workflows/secretScan.yml/badge.svg)](https://github.com/jmhatch-NOAA/PEMAD-MDEB-SMit_Aquaculture/actions/workflows/secretScan.yml)
+[![gitleaks](https://github.com/jmhatch-NOAA/PEMAD-MDEB-SMit_Overlap/actions/workflows/secretScan.yml/badge.svg)](https://github.com/jmhatch-NOAA/PEMAD-MDEB-SMit_Overlap/actions/workflows/secretScan.yml)
 
 Mapping overlap between [NEFSC Scientific Surveys](https://mdeb-nefsc-noaa.hub.arcgis.com/) and proposed marine development projects:
 
